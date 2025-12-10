@@ -25,7 +25,7 @@ python-rag-llama3 is a Retrieval-Augmented Generation (RAG) system built in Pyth
 ## Usage
 Run the main application:
 ```bash
-python app.py
+uvicorn app:app --reload
 ```
 - The system will prompt for queries and return answers using retrieved context and Llama3 generation.
 
