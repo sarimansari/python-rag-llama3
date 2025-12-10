@@ -1,0 +1,11 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines document retrieval with text generation.
+Semantic search uses vector embeddings to find meaning beyond exact keyword matches.
+FastAPI is a modern Python web framework for building APIs quickly and efficiently.
+Ollama allows running large language models like Llama 3 locally on your computer.
+Apple Inc. designs iPhones, MacBooks, and other consumer electronics.
+Bananas are yellow fruits that are sweet and rich in potassium.
+The capital of France is Paris, known for the Eiffel Tower and rich cultural history.
+Python is a versatile programming language widely used for data science, web development, and AI.
+FAISS is a library developed by Facebook AI for efficient similarity search on dense vectors.
+Sentence-transformers is a Python library that provides pre-trained models for generating text embeddings.
+RAG improves accuracy by grounding answers in retrieved context rather than relying only on the language model.
